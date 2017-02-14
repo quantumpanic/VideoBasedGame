@@ -186,7 +186,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 613}
   m_MaxSize: {x: 18008, y: 18063}
   vertical: 0
-  controlID: 48
+  controlID: 125
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -331,10 +331,10 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -512
-    m_HBaseRangeMax: 512
-    m_VBaseRangeMin: -384
-    m_VBaseRangeMax: 384
+    m_HBaseRangeMin: -160
+    m_HBaseRangeMax: 160
+    m_VBaseRangeMin: -240
+    m_VBaseRangeMax: 240
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -366,7 +366,7 @@ MonoBehaviour:
       width: 560.5979
       height: 497.2137
     m_MinimalGUI: 1
-  m_defaultScale: 0.77734375
+  m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
   m_LastWindowPixelSize: {x: 796, y: 723}
@@ -471,9 +471,9 @@ MonoBehaviour:
     height: 294
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: f2240000
     m_LastClickedID: 0
-    m_ExpandedIDs: ced8ffff8cd9ffff54daffff58daffff5edaffff92daffffa4daffff24ddffffeaddffffb2deffffb6deffffbcdefffff0deffff02dfffff52e4ffff1ce5ffffe8e5fffff0e5fffffae5ffff32e6ffff48e6ffff2afcffff00000000
+    m_ExpandedIDs: 2afcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -640,18 +640,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/StreamingAssets
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/StreamingAssets
+  - Assets
   m_LastFoldersGridSize: 16
   m_LastProjectPath: /Users/matataindonesia/Documents/VideoBasedGame
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ba240000
-    m_LastClickedID: 9402
+    m_SelectedIDs: 60240000
+    m_LastClickedID: 9312
     m_ExpandedIDs: 000000006024000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -709,7 +709,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 402c00001c55f7ff52050000b094fdffaa050000dc050000f61c000096240000b8e8ffff7e200000082100007a070000d4050000d8430000dec4ffffb40500009c050000680800000c060000241f00000e2300001c2200000a070000d41c0000320600006c1d0000302d00005c0600006e070000e405000006060000da0500009607000078050000ea070000e0070000be060000860600004007000034060000b2070000b8060000be22000010260000ca25000052260000e62d0000aa240000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
